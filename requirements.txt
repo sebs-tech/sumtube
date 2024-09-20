@@ -1,0 +1,8 @@
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+pytube==15.0.0
+pytubefix==6.16.2
+requests==2.32.3
+urllib3==2.2.3
+youtube-transcript-api==0.6.2
